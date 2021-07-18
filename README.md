@@ -1,6 +1,6 @@
 # Travmedia-il :earth_americas:
 
-###The purpose: ***
+###The purpose: ###
 Travmedia is an open source, free to use platform for Travelers who want to share their knowledge 
 and experience with other travelers and for travelers who want to get more knowledge from other’s experiences.
 
