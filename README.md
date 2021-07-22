@@ -22,6 +22,6 @@ and experience with other travelers and for travelers who want to get more knowl
 
 ### Key players: ###
 
-* Owner, planner: Ruben Rudov
-* Co-Owner, main backend developer: [Eyal Shapiro](https://github.com/Nitrogen777/)
-* Main Big-data developer: [Adam Livne](https://github.com/adamal92/)
+* Owner, Full-stack developer: Ruben Rudov
+* Backend developer: [Eyal Shapiro](https://github.com/Nitrogen777/)
+* Java developer: [Adam Livne](https://github.com/adamal92/)
